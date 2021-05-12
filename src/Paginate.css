@@ -1,0 +1,19 @@
+.paginate-sty-cover {
+  font-weight: bold;
+  background: #e6e6e6;
+  padding: 10px;
+}
+.paginate-sty-cover span {
+  border-bottom: 1px solid black;
+  padding: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.pagin-block {
+  width: 350px;
+  margin: auto;
+}
+.span-border {
+  color: white;
+  background: green
+}

@@ -1,0 +1,19 @@
+table {
+  font-size: 12px;
+}
+table thead {
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    border: 5px solid black;
+    background: #e6e6e6;
+}
+table thead th {
+  padding: 8px;
+}
+table tbody {
+  text-align: justify;
+}
+table td {
+  padding: 5px;
+}
